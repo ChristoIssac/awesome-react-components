@@ -147,6 +147,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [revo-grid](https://github.com/revolist/revogrid) - [demo/docs](https://revolist.github.io/revogrid/) - Powerfull Data Grid for React / AngularJS / Vue / Web Components with advanced customization.
 - [SheetXL](https://github.com/sheetxl/sheetxl) – A high-performance spreadsheet grid. TypeScript, ESM, Node/browser, Excel-compatible functions.
 - [SVAR React DataGrid](https://svar.dev/react/datagrid/) - [demo](https://docs.svar.dev/react/grid/samples/#/base/willow) - [docs](https://docs.svar.dev/react/grid/getting_started/) - React DataGrid with in-cell editing, tree data, context menu, virtual scrolling, etc.
+- [Syncfusion React Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/react-spreadsheet-editor) - Spreadsheet with formulas, formatting and XLSX import and export.
 
 ### Table
 
@@ -163,6 +164,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [simple-table](https://github.com/petera2c/simple-table) - [demo](https://www.simple-table.com/examples) - [docs](https://www.simple-table.com/docs) - Lightweight, fast and feature rich. Sorting/filtering, virtualization, tree data, nested headers, pinned columns, customized styling etc.
 
 - [KendoReact Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more.
+- [Syncfusion React Data Grid](https://www.syncfusion.com/react-components/react-data-grid) - [demo](https://ej2.syncfusion.com/react/demos/#/bootstrap5/grid/overview) - [docs](https://help.syncfusion.com/grid-sdk/react/data-grid/getting-started/) - Data grid with row/column virtualization, Excel-like filtering, grouping, editing and Excel/PDF export.
 
 - [Material-React-Table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
 
@@ -268,7 +270,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 _Display data in charts / graphs / diagrams_
 
-- [essential js 2 charts](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts) - Beautiful and interactive charts & graphs for react.
+- [Syncfusion React Charts](https://www.syncfusion.com/react-components/react-charts) - Interactive charts and graphs for React.
 - [EazyChart](https://github.com/Hexastack/eazychart) - [demo](https://docs.eazychart.com/#demos) - [docs](https://docs.eazychart.com) - Easily transform data into meaningful charts
 - [echarts for react](https://github.com/hustcc/echarts-for-react) - Wrapper around beautiful Apache Echarts
 - [jscharting-react](https://github.com/jscharting/jscharting-react) – React chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/).
@@ -286,10 +288,12 @@ _Display data in charts / graphs / diagrams_
 - [victory](https://github.com/FormidableLabs/victory) - Data viz for React.
 - [semiotic](https://semiotic.nteract.io/) - Semiotic is a data visualization framework for React.
 - [SVAR React Gantt](https://svar.dev/react/gantt/) - [demo](https://docs.svar.dev/react/gantt/samples/#/base/willow) - [docs](https://docs.svar.dev/react/gantt/getting_started/) - Customizable, interactive Gantt chart component
+- [Syncfusion React Gantt Chart](https://www.syncfusion.com/gantt-sdk/react-gantt-chart) - Gantt chart with task dependencies, resource view, timeline zooming and drag-and-drop editing.
 - [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based chart for Bootstrap and Material Design.
 - [Smart React Chart](https://www.htmlelements.com/react/demos/chart/overview/) - Feature complete Charting library.
 - [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
 - [Flowchart React](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
+- [Syncfusion React Diagram](https://www.syncfusion.com/diagram-sdk/react-diagram) - Diagram component for flowcharts, org charts, mind maps and BPMN diagrams.
 - [react-dashboard](https://github.com/flatlogic/react-dashboard) - Isomorphic Dashboards.
 
 ### Command palette
@@ -339,6 +343,7 @@ _Ways to navigate views_
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
 - [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
 - [react-svg-map](https://github.com/VictorCazanave/react-svg-map) - [demo](https://victorcazanave.github.io/react-svg-map/) - A set of components to display an interactive SVG map.
+- [Syncfusion React Maps](https://www.syncfusion.com/react-components/react-maps-library) - Maps component for geographical data with markers, bubbles, legends and GeoJSON shapes.
 
 ### Time / Date / Age
 
@@ -414,6 +419,7 @@ _Sketch input using Canvas or SVG_
 - [react-demo-tab](https://github.com/mkosir/react-demo-tab) - [demo](https://mkosir.github.io/react-demo-tab) - A React component to easily create demos of other components.
 - [fastcomments-react](https://github.com/fastcomments/fastcomments-react) - [demo](<https://blog.fastcomments.com/(12-30-2019)-fastcomments-demo.html>) - FastComments component for embedding a live comment thread on a page or SPA.
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
+- [Syncfusion React PDF Viewer](https://www.syncfusion.com/pdf-viewer-sdk/react-pdf-viewer) - View, annotate, fill forms in and sign PDF files.
 - [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - [demo](https://github.com/anishagg17/PIzzaBuilder) - A simple chatbot component to create conversation chats.
 - [react-file-reader-input](https://github.com/ngokevin/react-file-reader-input) - File input component for control for file reading styling and abstraction.
 - [react-filter-control](https://github.com/komarovalexander/react-filter-control) - The React filterbuilder component for building the filter criteria in the UI.
@@ -453,6 +459,7 @@ _Date picker / time picker / datetime picker / date range picker_
 - [react-timezone-select](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
 - [DevExtreme React Scheduler](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - High-performance plugin-based scheduler/calendar for Material Design.
 - [jQWidgets Scheduler](https://www.jqwidgets.com/react/react-scheduler/) - Feature complete Scheduling library.
+- [Syncfusion React Scheduler](https://www.syncfusion.com/scheduler-sdk/react-scheduler) - Event calendar with day, week, month, timeline and agenda views, resource grouping and drag-and-drop.
 - [react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
 - [react-date-picker](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
 - [schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker components. Demo site: https://schedule-x.dev/
@@ -579,6 +586,7 @@ _Let the user define an order on a list_
 - [remirror](https://github.com/remirror/remirror) - [demo](https://remirror.io/playground) - [docs](https://remirror.io/docs) - ProseMirror toolkit for React.
 - [slate](https://github.com/ianstormtaylor/slate) - [demo](http://slatejs.org/) - [docs](https://docs.slatejs.org/) - A completely customizable framework for building rich text editors.
 - [smartblock](https://github.com/appleple/smartblock) - [demo](https://appleple.github.io/smartblock/) - [docs](https://appleple.github.io/smartblock/get-started) - Block based WYSIWYG editor based on ProseMirror.
+- [Syncfusion React Rich Text Editor](https://www.syncfusion.com/rich-text-editor-sdk/react-rich-text-editor) - WYSIWYG and Markdown editor with tables, image upload, paste cleanup and a customizable toolbar.
 - [tiptap](https://github.com/ueberdosis/tiptap) - [demo](https://tiptap.dev/) - [docs](https://tiptap.dev/introduction) - The headless editor framework for web artisans.
 
 #### Markdown Editor
@@ -628,6 +636,7 @@ _Components to layout the app's UI_
 - [m-react-splitters](https://github.com/martinnov92/React-Splitters) - Splitter component, written in TypeScript.
 - [muuri-react](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
+- [Syncfusion React Dashboard Layout](https://www.syncfusion.com/react-components/react-dashboard-layout) - Grid-based layout of draggable and resizable panels for dashboards.
 - [react-layman](https://github.com/Jeshwin/react-layman) - [demo](https://jeshwin.github.io/react-layman/) - Dynamic tiling layout manager with tabs
 - [react-masonry-component](https://github.com/eiriklv/react-masonry-component) - Wrapper for @desandro's Masonry.
 - [react-reflex](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications.
